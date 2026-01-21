@@ -44,7 +44,7 @@ I set up a weighted RNG system for player generation:
 
 ### Documentation
 I wrote up a full feature spec explaining how this fits into a larger Dynasty Mode loop.
-[Read the Design Doc (PDF)](./Project_College_Basketball_Dynasty_Logic_Overhaul.pdf)
+[Read the Design Doc (PDF)](./Project_%20College%20Basketball%20Dynasty%20Logic%20Overhaul.pdf)
 
 ---
 Built by Xavier Seron.
